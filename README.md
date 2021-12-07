@@ -1,6 +1,6 @@
 ### Hi there! My name is Vinícius de Freitas
 
-- 📖 I've been studying front end development at Kenzie Academy Brasil. Now i'm finishing the second quarter which is focused on the fundamentals of ReactJS, these are the technologies seen so far -> HTML-CSS-JS-ReactJS
+- 📖 I've been studying web fullstack development at Kenzie Academy Brasil. Now i'm starting the third quarter which is focused on the fundamentals of back-end, these are the technologies seen so far -> Git-HTML-CSS-JS-ReactJS-Redux-Python-Flask
 
 <div style="display: inline_block">
   <a href="https://github.com/Vinicius2m/">
