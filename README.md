@@ -1,4 +1,10 @@
 ## Hi there! My name is Vinícius de Freitas
+
+<div> 
+  <a href = "mailto:viniciusfreitas.1.4.4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-de-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
+ </div>
+
 ### I'm front-end developer studying to be an fullstack developer.
 
 - 📖 I've been studying web fullstack development at Kenzie Academy Brasil. Now i'm in the beginning of the fourth quarter which is focused on the back-end and technologies like NodeJS and Django.
@@ -37,11 +43,6 @@
   
   ##
   
- <div> 
-  <a href = "mailto:viniciusfreitas.1.4.4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-de-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-   
-   ![Snake animation](https://github.com/Vinicius2m/Vinicius2m/blob/output/github-contribution-grid-snake.svg)
-   
- </div>
+ 
+ ![Snake animation](https://github.com/Vinicius2m/Vinicius2m/blob/output/github-contribution-grid-snake.svg)
  
