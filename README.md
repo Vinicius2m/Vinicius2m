@@ -1,7 +1,7 @@
 ## Hi there! My name is Vinícius de Freitas
 ### I'm front-end developer studying to be an fullstack developer.
 
-- 📖 I've been studying web fullstack development at Kenzie Academy Brasil. Now i'm in the middle of the third quarter which is focused on the fundamentals of back-end.
+- 📖 I've been studying web fullstack development at Kenzie Academy Brasil. Now i'm in the beginning of the fourth quarter which is focused on the back-end and technologies like NodeJS and Django.
 
 #### Technologies seen so far: 
  - HTML, CSS, JavaScript
