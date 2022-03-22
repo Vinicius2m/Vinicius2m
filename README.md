@@ -41,8 +41,11 @@
   <a href="" title=""><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
 </div>
 
-### Stats
+#
 
+### Statistics
+
+<h4 align="center" >Visits on profile</h4>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Vinicius2m/count.svg" />  
 </p>
