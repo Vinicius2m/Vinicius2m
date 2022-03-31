@@ -1,6 +1,6 @@
 ## Hi there! My name is Vinícius de Freitas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-freitas/)](https://www.linkedin.com/in/vinicius-de-freitas/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-freitas/)](https://www.linkedin.com/in/vinicius-de-freitas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfreitas.1.4.4@gmail.com)](mailto:viniciusfreitas.1.4.4@gmail.com) 
 
 ### I'm fullstack developer focused on Web development.
