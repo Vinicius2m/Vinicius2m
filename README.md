@@ -12,10 +12,12 @@
 #### Technologies seen so far: 
  - HTML, CSS, JavaScript
  - ReactJS, Styled Components, Redux, TypeScript
- - Python, APIs Rest, Flask, MongoDB, PostgreSQL
+ - APIs Rest, NodeJS, Python, Flask, MongoDB, PostgreSQL
 
 #### Tools:
 - Git, GitHub, VSCode, Figma, Trello, Vercel, Heroku
+
+#
 
 <div style="display: inline_block">
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="Git" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
@@ -38,7 +40,8 @@
   <a href="" title=""><img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="" title=""><img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
   <a href="https://www.mongodb.org/" title="MongoDB"><img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-  <a href="" title=""><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+  <a href="" title=""><img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+ <a href="" title=""><img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 </div>
 
 #
