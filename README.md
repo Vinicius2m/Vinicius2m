@@ -48,11 +48,6 @@
 
 ### Statistics
 
-<h4 align="center" >Visits on profile</h4>
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Vinicius2m/count.svg" />  
-</p>
-
 <div style="display: inline_block">
   <a href="https://github.com/Vinicius2m/">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius2m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
