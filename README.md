@@ -1,18 +1,18 @@
-## Hi there! My name is Vinícius de Freitas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there! My name is Vinícius de Freitas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-freitas/)](https://www.linkedin.com/in/vinicius-de-freitas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfreitas.1.4.4@gmail.com)](mailto:viniciusfreitas.1.4.4@gmail.com) 
 
-### I'm fullstack developer focused on Web development.
+### I'm web a fullstack developer.
 
 - 🙋‍♂️ I'm 21 years old and based in Fortaleza, Ceará, Brazil
 
-- 📖 I've been studying web fullstack development at Kenzie Academy Brasil. Now i'm in the beginning of the fourth quarter which is focused on the back-end and technologies like NodeJS and Django.
+- 📖 I've been studying web fullstack development at Kenzie Academy Brasil for the last year. Currently I have completed the course and I continue to study technologies such as CSS preprocessors, in-depth studies in React and Next.js.
 
 #### Technologies seen so far: 
  - HTML, CSS, JavaScript
  - ReactJS, Styled Components, Redux, TypeScript
- - APIs Rest, NodeJS, Python, Flask, MongoDB, PostgreSQL
+ - APIs Rest, NodeJS, Python, Flask, Django, MongoDB, PostgreSQL
 
 #### Tools:
 - Git, GitHub, VSCode, Figma, Trello, Vercel, Heroku
@@ -37,11 +37,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <a href="" title=""><img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="" title=""><img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
-  <a href="https://www.mongodb.org/" title="MongoDB"><img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-  <a href="" title=""><img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
- <a href="" title=""><img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+ <a href="https://nodejs.org/en/" title="NodeJS"><img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://www.python.org/" title="Python"><img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/" title="Flask"><img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a>
+  <a href="https://www.djangoproject.com/" title="Django"><img align="center" alt="Django" height="40" width="50" src="https://icongr.am/devicon/django-plain.svg?color=7fffd4"/></a>
+  <a href="https://www.mongodb.org/" title="MongoDB"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
 </div>
 
 #
