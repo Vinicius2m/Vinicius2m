@@ -57,7 +57,7 @@
   
   ##
   
- ![Vinícius de Freitas github activity graph](https://activity-graph.herokuapp.com/graph?username=Vinicius2m&theme=react-dark)
+<!--  ![Vinícius de Freitas github activity graph](https://activity-graph.herokuapp.com/graph?username=Vinicius2m&theme=react-dark) -->
   
   
  ![Snake animation](https://github.com/Vinicius2m/Vinicius2m/blob/output/github-contribution-grid-snake.svg)
