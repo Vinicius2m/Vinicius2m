@@ -7,12 +7,12 @@
 
 - 🙋‍♂️ I'm 21 years old and based in Fortaleza, Ceará, Brazil
 
-- 📖 I've been studying web fullstack development at Kenzie Academy Brasil for the last year. Currently I have completed the course and I continue to study technologies such as CSS preprocessors, in-depth studies in React and Next.js.
+- 📖 I've been studying web fullstack development at Kenzie Academy Brasil for the last year. Currently I have completed the course and I continue to study technologies such as Flutter to frontend and NestJS for backend.
 
 #### Technologies seen so far: 
- - HTML, CSS, JavaScript
- - ReactJS, Styled Components, Redux, TypeScript
- - APIs Rest, NodeJS, Python, Flask, Django, MongoDB, PostgreSQL
+ - HTML, CSS, JavaScript;
+ - ReactJS, Styled Components, Redux, TypeScript;
+ - APIs Rest, NodeJS, Express, NestJS, Python, Flask, Django, MongoDB, PostgreSQL;
 
 #### Tools:
 - Git, GitHub, VSCode, Figma, Trello, Vercel, Heroku
