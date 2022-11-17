@@ -7,15 +7,21 @@
 
 - 🙋‍♂️ I'm 21 years old and based in Fortaleza, Ceará, Brazil
 
-- 📖 I've been studying web fullstack development at Kenzie Academy Brasil for the last year. Currently I have completed the course and I continue to study technologies such as Flutter to frontend and NestJS for backend.
+- 📖 I started studying full stack web development in May 2021 through the course offered by Kenzie Academy Brasil. After a year I completed the developer training and gained a lot of experience. I currently work as a full stack developer at Devnology with new technologies like NextJS and Flutter.
 
 #### Technologies seen so far: 
- - HTML, CSS, JavaScript;
- - ReactJS, Styled Components, Redux, TypeScript;
- - APIs Rest, NodeJS, Express, NestJS, Python, Flask, Django, MongoDB, PostgreSQL;
+ - HTML, CSS, JavaScript, TypeScript;
+ - ReactJS, NextJS;
+ - Styled Components, Redux, Chakra Ui;
+ - Dart, Flutter;
+ - NodeJS, Express, NestJS;
+ - Python, Flask, Django, FastAPI;
+ - MongoDB, MySQL, PostgreSQL, Redis;
+ - Git, Docker;
+ - Scrum, Kanban
 
 #### Tools:
-- Git, GitHub, VSCode, Figma, Trello, Vercel, Heroku
+- GitHub, GitLab, VSCode, Figma, Trello, Vercel, Heroku;
 
 #
 
