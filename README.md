@@ -5,9 +5,9 @@
 
 ### I'm web a fullstack developer.
 
-- 🙋‍♂️ I'm 21 years old and based in Fortaleza, Ceará, Brazil
+- 🙋‍♂️ I'm 22 years old and based in Fortaleza, Ceará, Brazil
 
-- 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. I currently work as a full stack developer at Devnology with new technologies like NextJS and Flutter.
+- 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. My last professional experience was as a full stack developer at Devnology with new technologies like NextJS and Flutter.
 
 #### Technologies seen so far: 
  - HTML, CSS, JavaScript, TypeScript;
@@ -21,7 +21,7 @@
  - Scrum, Kanban
 
 #### Tools:
-- GitHub, GitLab, VSCode, Figma, Trello, Vercel, Heroku;
+- GitHub, GitLab, VSCode, Figma, Trello, ClickUp, Jira;
 
 #
 
