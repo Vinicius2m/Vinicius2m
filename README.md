@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-de-freitas/)](https://www.linkedin.com/in/vinicius-de-freitas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfreitas.1.4.4@gmail.com)](mailto:viniciusfreitas.1.4.4@gmail.com) 
 
-### I'm web a fullstack developer.
+### I'm a web developer.
 
 - 🙋‍♂️ I'm 22 years old and based in Fortaleza, Ceará, Brazil
 
-- 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. My last professional experience was as a full stack developer at Devnology with new technologies like NextJS and Flutter.
+- 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. My last professional experience was as a full stack developer at Devnology with new technologies like Next.js and NestJS.
 
 #### Technologies seen so far: 
  - HTML, CSS, JavaScript, TypeScript;
