@@ -9,20 +9,18 @@
 
 - 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. My last professional experience was as a full stack developer at Devnology with new technologies like Next.js and NestJS.
 
-#### Technologies seen so far: 
+#### Technologies that i have experience: 
  - HTML, CSS, JavaScript, TypeScript;
  - ReactJS, NextJS;
  - Styled Components, Redux, Chakra Ui;
  - Dart, Flutter;
  - NodeJS, Express, NestJS;
- - Python, Flask, Django, FastAPI;
  - MongoDB, MySQL, PostgreSQL, Redis;
  - Git, Docker;
- - Scrum, Kanban
 
 #### Tools:
 - GitHub, GitLab, VSCode, Figma, Trello, ClickUp, Jira;
-
+- Scrum, Kanban
 #
 
 <div style="display: inline_block">
@@ -51,17 +49,15 @@
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
 </div>
 
-#
-
-### Statistics
+<!-- ### Statistics
 
 <div style="display: inline_block">
   <a href="https://github.com/Vinicius2m/">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius2m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius2m&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ##
+</div>  
+
+ ## !-->  
   
 <!--  ![Vinícius de Freitas github activity graph](https://activity-graph.herokuapp.com/graph?username=Vinicius2m&theme=react-dark)
  
