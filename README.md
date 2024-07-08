@@ -7,7 +7,7 @@
 
 - 🙋‍♂️ I'm 23 years old and based in Fortaleza, Ceará, Brazil
 
-- 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. My last professional experience was as a full stack developer at Devnology with new technologies like Next.js and NestJS.
+- 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience. My last professional experience was as a full stack developer manutting with e-commerce projects like car rental, airline tickets and accomodations. I used some technologies like React with Next.js, Node.js with NestJS, Dart with Flutter, SQL and Redis for caching.
 
 #### Technologies that i have experience: 
  - HTML, CSS, JavaScript, TypeScript;
