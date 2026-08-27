@@ -9,7 +9,7 @@
 
 - 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience.
 
-- 💻 My experience. I used some technologies like React with Next.js, Node.js with NestJS, Dart with Flutter, SQL and Redis for caching.
+- 💻 Currently I'm a full stack developer with over 3 years of experience. Skilled in TypeScript, Node.js, NestJS, React and Next.js with strong knowledge of relational and non relational databases. Experienced in developing scalable solutions and working with cloud and DevOps technologies such as GCP and Docker.
 
 #### Technologies that i have experience: 
  - HTML, CSS, JavaScript, TypeScript;
