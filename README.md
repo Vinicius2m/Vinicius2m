@@ -5,25 +5,20 @@
 
 ### I'm a web developer.
 
-- 🙋‍♂️ I'm 23 years old and based in Fortaleza, Ceará, Brazil
+- 🙋‍♂️ I'm 25 years old and based in Fortaleza, Ceará, Brazil
 
 - 📖 I started studying full stack web development in May 2021 through the course (bootcamp) offered by Kenzie Academy Brasil, after a year I completed the developer training and gained a lot of experience.
 
-- 💻 My last professional experience was as a full stack developer manutting with e-commerce projects like car rental, airline tickets and accomodations. I used some technologies like React with Next.js, Node.js with NestJS, Dart with Flutter, SQL and Redis for caching.
+- 💻 My experience. I used some technologies like React with Next.js, Node.js with NestJS, Dart with Flutter, SQL and Redis for caching.
 
 #### Technologies that i have experience: 
  - HTML, CSS, JavaScript, TypeScript;
  - ReactJS, NextJS;
- - Styled Components, Redux, Chakra Ui;
- - Dart, Flutter;
- - NodeJS, Express, NestJS;
+ - NodeJS, NestJS;
  - MongoDB, MySQL, PostgreSQL, Redis;
+ - Google Cloud Platform
  - Git, Docker;
 
-#### Tools:
-- GitHub, GitLab, VSCode, Figma, Trello, ClickUp, Jira;
-- Scrum, Kanban
-#
 
 <div style="display: inline_block">
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="Git" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
